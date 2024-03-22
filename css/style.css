@@ -1,0 +1,17 @@
+.w-450 {
+	width: 450px;
+}
+.vh-100 {
+	min-height: 100vh;
+}
+
+body {
+	background-color: #242d34; 
+	color: #fff; 
+}
+
+.shadow {
+	background-color: #000000; 
+	border-color: #333; 
+	border-radius: 20px;
+}
